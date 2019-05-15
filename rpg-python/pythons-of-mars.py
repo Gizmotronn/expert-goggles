@@ -200,6 +200,7 @@ if start == 'yes':
             time.sleep(2)
             print("A large red desert is the only thing you can see.")
             print("Game Over")
+            # mission 1 starts, finds cave and cpu sends mission
         if areyousure == 'no':
             print("Downloading...")
             time.sleep(0.1)
